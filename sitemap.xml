@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>https://clnservizi.ga</loc>
+	<lastmod>2021-09-18</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+	<image:image>
+	<image:loc>https://clnservizi.ga/img/CLN%20Servizi%20logo.png</image:loc>
+	<image:title>logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://clnservizi.ga/img/bookkepingCLN1.webp</image:loc>
+	<image:title>ray reyes-3xwrg7Vv6Ts-unsplash</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://clnservizi.ga/img/daniel-fazio-DzqeB43HfnE-unsplash.webp</image:loc>
+	<image:title>daniel fazio-DzqeB43HfnE-unsplash</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://clnservizi.ga/img/beatriz-perez-moya-XN4T2PVUUgk-unsplash.webp</image:loc>
+	<image:title>beatriz perez-moya-XN4T2PVUUgk-unsplash</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://clnservizi.ga/img/Conor%20finished%20circle.webp</image:loc>
+	<image:title>placeholder user</image:title>
+	</image:image>
+	<video:video>
+	<video:content_loc>https://clnservizi.ga/vid/pexels-artem-podrez-6780084.mp4</video:content_loc>
+	<video:title>pexels-artem-podrez-6780084</video:title>
+	</video:video>
+	<image:image>
+	<image:loc>https://clnservizi.ga/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://clnservizi.ga/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+</urlset>
